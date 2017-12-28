@@ -10,11 +10,11 @@ Type 'help' and 'info' for further information
 
 ## Important
 In sites.txt the proper form must be the following:  
-a:Name
-b:Path
-c:Interval
-In each new line:
-a  b  c
+a:Name  
+b:Path  
+c:Interval  
+In each new line:  
+a  b  c  
 
 To run the scripts properly
 each script must return a 'success' value
