@@ -13,6 +13,7 @@ In sites.txt the proper form must be the following:
 >a:Name  
 >b:Path  
 >c:Interval  
+
 In each new line:  
 >a  b  c  
 
