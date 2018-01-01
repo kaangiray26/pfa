@@ -1,5 +1,6 @@
 # pfa
-Python Framework of Automation
+Python Framework of Automation  
+Automation of python scripts with time parameters
 
 ## Required Packages
     prettytable
