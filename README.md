@@ -3,7 +3,8 @@ Python Framework of Automation
 
 ## Required Packages
     prettytable
-
+## Installation
+    pip install -r requirements.txt
 ## How Does It Work?
 Code add scripts to its list and runs them in order with given try interval.
 Type 'help' and 'info' for further information
